@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(12, 12, 12);
+    color: gold;
+   
+}
+
+
+header{
+    padding: 0px;
+    margin: 0px;
+    padding-bottom: 100px;
+}
+
+.Mak{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(12, 12, 12);
+    color: gold;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+footer{
+    background-color: rgb(12, 12, 12);
+    padding: 15px;
+    font-size: 20px;    
+}
